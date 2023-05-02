@@ -53,7 +53,7 @@ section.home-content{
     position: fixed;
     top: 0;
     right: 0;
-    background: var(--primary-color) url("/menu.png");
+    background: var(--primary-color) url(menu.png);
     z-index:20;
     width: 60px;
     height: 60px;
@@ -64,7 +64,7 @@ section.home-content{
 }
 .toggle.active
 {
-    background: var(--primary-color) url("/close.png");
+    background: var(--primary-color) url(close.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 25px;
